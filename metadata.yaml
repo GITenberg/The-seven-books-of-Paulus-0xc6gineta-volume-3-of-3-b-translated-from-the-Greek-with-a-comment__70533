@@ -1,0 +1,50 @@
+_repo: The-seven-books-of-Paulus-0xc6gineta-volume-3-of-3-b-translated-from-the-Greek-with-a-comment__70533
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Adams, Francis
+    alias: Adam, Francis
+    birthdate: 1796
+    deathdate: 1861
+    gutenberg_agent_id: '55790'
+    url: http://www.gutenberg.org/2009/agents/55790
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Adams_(translator)
+creator:
+  author:
+    agent_name: Paulus, Aegineta
+    aliases:
+    - Ægineta, Paulus
+    - Aegineta, Paulus
+    - Paul, of Aegina
+    - Παῦλος, Αἰγινήτης
+    - Paulos, Aiginetes
+    gutenberg_agent_id: '55793'
+    url: http://www.gutenberg.org/2009/agents/55793
+    wikipedia: https://en.wikipedia.org/wiki/Paul_of_Aegina
+description: ''
+gutenberg_issued: '2023-04-13'
+identifiers:
+  gutenberg: '70533'
+language: en
+pgterms:marc904: https://archive.org/details/sevenbooksofpaul03pauluoft
+pgterms:marc905: 20200308105831aegineta
+pgterms:marc906: '1844'
+pgterms:marc907: UK
+production_note: Tim Lindell, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUK :$bPrinted for the Sydenham Society, $c1844, pubdate 1846,
+  pubdate 1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine'
+- !lcsh 'Medicine, Greek and Roman'
+- !lcsh 'Medicine, Arab'
+- !lcc 'R'
+- GITenberg
+title: 'The seven books of Paulus Ægineta, volume 3 (of 3) : $b translated from the
+  Greek: with a commentary embracing a complete view of the knowledge possessed by
+  the Greeks, Romans, and Arabians on all subjects connected with medicine and surgery'
+url: http://www.gutenberg.org/ebooks/70533
