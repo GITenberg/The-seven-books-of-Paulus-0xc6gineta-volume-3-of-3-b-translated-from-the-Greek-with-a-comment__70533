@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '55790'
     url: http://www.gutenberg.org/2009/agents/55790
     wikipedia: https://en.wikipedia.org/wiki/Francis_Adams_(translator)
+covers:
+- cover_type: archival
+  image_path: 70533-h/images/cover.jpg
 creator:
   author:
     agent_name: Paulus, Aegineta
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55793
     wikipedia: https://en.wikipedia.org/wiki/Paul_of_Aegina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70533#The-seven-books-of-Paulus-0xc6gineta-volume-3-of-3-b-translated-from-the-Greek-with-a-comment_
 gutenberg_issued: '2023-04-13'
 identifiers:
   gutenberg: '70533'
